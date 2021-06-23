@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.152a0643.chunk.css",
+    "main.js": "/static/js/main.26ec7b00.chunk.js",
+    "main.js.map": "/static/js/main.26ec7b00.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0140a1c3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0140a1c3.js.map",
+    "static/js/2.1e6b752c.chunk.js": "/static/js/2.1e6b752c.chunk.js",
+    "static/js/2.1e6b752c.chunk.js.map": "/static/js/2.1e6b752c.chunk.js.map",
+    "static/js/3.6b79764f.chunk.js": "/static/js/3.6b79764f.chunk.js",
+    "static/js/3.6b79764f.chunk.js.map": "/static/js/3.6b79764f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.152a0643.chunk.css.map": "/static/css/main.152a0643.chunk.css.map",
+    "static/js/2.1e6b752c.chunk.js.LICENSE.txt": "/static/js/2.1e6b752c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/body-back.892633f0.png",
+    "static/media/a_winning.8e7bc8f3.PNG": "/static/media/a_winning.8e7bc8f3.PNG",
+    "static/media/a_won.97b195ed.PNG": "/static/media/a_won.97b195ed.PNG",
+    "static/media/b_winning.ccf414d7.PNG": "/static/media/b_winning.ccf414d7.PNG",
+    "static/media/b_won.e48626b0.PNG": "/static/media/b_won.e48626b0.PNG",
+    "static/media/beltofvikings.f27c574d.png": "/static/media/beltofvikings.f27c574d.png",
+    "static/media/game_start.533588c7.PNG": "/static/media/game_start.533588c7.PNG",
+    "static/media/game_stop.99c842a8.PNG": "/static/media/game_stop.99c842a8.PNG",
+    "static/media/goldfinch.c675ccae.png": "/static/media/goldfinch.c675ccae.png",
+    "static/media/logo2.85d0d226.png": "/static/media/logo2.85d0d226.png",
+    "static/media/revenue.c0d10246.png": "/static/media/revenue.c0d10246.png",
+    "static/media/team.9b54831b.png": "/static/media/team.9b54831b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0140a1c3.js",
+    "static/js/2.1e6b752c.chunk.js",
+    "static/css/main.152a0643.chunk.css",
+    "static/js/main.26ec7b00.chunk.js"
+  ]
+}
